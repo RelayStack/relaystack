@@ -29,9 +29,9 @@ DevOps:    Docker, CI/CD, cloud deployment
 
 ## Contact
 
-- 📧 Email: [your-email@proton.me]
-- 💬 Telegram: [your-handle]
-- 🌐 Portfolio: [your-site.com]
+- 📧 Email: [relaystack@proton.me]
+- 💬 Telegram: @relaystack
+- 🌐 Portfolio: relaystack
 
 ---
 
